@@ -6,7 +6,7 @@
       "detailedDescription": "We provide top-notch video editing services, including color grading, transitions, effects, and audio enhancement. Our team ensures your videos are polished and ready for any platform, whether it's social media, corporate presentations, or personal projects.",
       "price": "$150 - $500 per project",
       "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
-      "image": "https://example.com/video-editing.jpg"
+      "image": "https://lwks.app/hubfs/The%20Future-min.webp"
     },
     {
       "name": "Web Development",
@@ -14,7 +14,7 @@
       "detailedDescription": "Our web development services include responsive design, e-commerce platforms, and custom web applications. We ensure fast, secure, and user-friendly websites that align with your brand's vision and goals.",
       "price": "$500 - $3000 per project",
       "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828817.png",
-      "image": "https://example.com/web-development.jpg"
+      "image": "https://www.creative-tim.com/blog/content/images/size/w960/2022/01/which-development-job-is-right-for-you.jpg"
     },
     {
       "name": "AI & ML Solutions",
@@ -22,7 +22,7 @@
       "detailedDescription": "From predictive analytics to intelligent automation, our AI and ML solutions empower your business to stay ahead. We specialize in NLP, computer vision, and data-driven models that provide actionable insights.",
       "price": "$2000 - $10000 per project",
       "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
-      "image": "https://example.com/ai-ml.jpg"
+      "image": "https://www.cbit.ac.in/wp-content/uploads/2023/03/AIML-CBIT.gif"
     }
   ]
 }
