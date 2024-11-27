@@ -1,0 +1,28 @@
+{
+  "services": [
+    {
+      "name": "Video Editing",
+      "description": "Professional video editing services to bring your vision to life.",
+      "detailedDescription": "We provide top-notch video editing services, including color grading, transitions, effects, and audio enhancement. Our team ensures your videos are polished and ready for any platform, whether it's social media, corporate presentations, or personal projects.",
+      "price": "$150 - $500 per project",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+      "image": "https://example.com/video-editing.jpg"
+    },
+    {
+      "name": "Web Development",
+      "description": "Custom web solutions tailored to your business needs.",
+      "detailedDescription": "Our web development services include responsive design, e-commerce platforms, and custom web applications. We ensure fast, secure, and user-friendly websites that align with your brand's vision and goals.",
+      "price": "$500 - $3000 per project",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1828/1828817.png",
+      "image": "https://example.com/web-development.jpg"
+    },
+    {
+      "name": "AI & ML Solutions",
+      "description": "Innovative AI and ML services for smarter business decisions.",
+      "detailedDescription": "From predictive analytics to intelligent automation, our AI and ML solutions empower your business to stay ahead. We specialize in NLP, computer vision, and data-driven models that provide actionable insights.",
+      "price": "$2000 - $10000 per project",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "image": "https://example.com/ai-ml.jpg"
+    }
+  ]
+}
