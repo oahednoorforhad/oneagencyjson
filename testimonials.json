@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Dawn of Innovation",
+    "description": "Explore the birth of groundbreaking ideas and inventions.",
+    "profilePic": "https://via.placeholder.com/100",
+    "servicePic": "https://via.placeholder.com/400"
+  },
+  {
+    "title": "The Digital Revolution",
+    "description": "Dive into the transformative power of technology.",
+    "profilePic": "https://via.placeholder.com/100",
+    "servicePic": "https://via.placeholder.com/400"
+  },
+  {
+    "title": "The Art of Design",
+    "description": "Discover the beauty of thoughtful and functional design.",
+    "profilePic": "https://via.placeholder.com/100",
+    "servicePic": "https://via.placeholder.com/400"
+  },
+  {
+    "title": "The Power of Communication",
+    "description": "Understand the impact of effective communication in our lives.",
+    "profilePic": "https://via.placeholder.com/100",
+    "servicePic": "https://via.placeholder.com/400"
+  },
+  {
+    "title": "The Pursuit of Knowledge",
+    "description": "Join the quest for understanding and enlightenment.",
+    "profilePic": "https://via.placeholder.com/100",
+    "servicePic": "https://via.placeholder.com/400"
+  },
+  {
+    "title": "The Joy of Creation",
+    "description": "Experience the thrill of bringing ideas to life.",
+    "profilePic": "https://via.placeholder.com/100",
+    "servicePic": "https://via.placeholder.com/400"
+  },
+  {
+    "title": "The Spirit of Adventure",
+    "description": "Embark on exciting journeys and thrilling discoveries.",
+    "profilePic": "https://via.placeholder.com/100",
+    "servicePic": "https://via.placeholder.com/400"
+  }
+]
