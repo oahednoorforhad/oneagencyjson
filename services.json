@@ -23,6 +23,30 @@
       "price": "$2000 - $10000 per project",
       "icon": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
       "image": "https://www.cbit.ac.in/wp-content/uploads/2023/03/AIML-CBIT.gif"
+    },
+    {
+      "name": "SEO Optimization",
+      "description": "Boost your online visibility with our SEO services.",
+      "detailedDescription": "Our SEO optimization services help improve your website's ranking on search engines. We conduct keyword research, optimize on-page and off-page elements, and monitor performance to ensure maximum visibility and traffic.",
+      "price": "$300 - $2000 per project",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2797/2797927.png",
+      "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2022/02/seo-tools-620abb79186b8-sej-1520x800.webp"
+    },
+    {
+      "name": "Graphics Design",
+      "description": "Creative graphic design services for your brand.",
+      "detailedDescription": "We offer exceptional graphic design services, including logo design, brochures, banners, and social media creatives. Our designs are tailored to communicate your brand message effectively and leave a lasting impression.",
+      "price": "$100 - $1000 per project",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1146/1146898.png",
+      "image": "https://designshack.net/wp-content/uploads/placeit-featured.png"
+    },
+    {
+      "name": "Cyber Security",
+      "description": "Secure your digital presence with our cybersecurity solutions.",
+      "detailedDescription": "Our cybersecurity services include penetration testing, network security, data protection, and vulnerability assessment. We ensure your business remains secure against cyber threats and data breaches.",
+      "price": "$1000 - $8000 per project",
+      "icon": "https://cdn-icons-png.flaticon.com/512/5264/5264595.png",
+      "image": "https://f.hubspotusercontent10.net/hubfs/7477024/solutions-pages/cybersecurity.jpeg"
     }
   ]
 }
